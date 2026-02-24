@@ -1,0 +1,5 @@
+ABC Ltd (person1@gmail.com) - SUCCESS
+XYZ Inc (person2@gmail.com) - SUCCESS
+Tech Co (person3@gmail.com) - SUCCESS
+Global Solutions (person4@gmail.com) - SUCCESS
+Innovate Tech (person5@gmail.com) - SUCCESS
